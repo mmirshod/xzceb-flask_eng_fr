@@ -1,4 +1,4 @@
-from machinetranslation import translator
+from final_project.machinetranslation import translator
 from flask import Flask, render_template, request
 
 app = Flask("Web Translator")
